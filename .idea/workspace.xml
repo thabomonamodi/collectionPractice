@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="301385e7-18e4-473e-b680-5a50ca361980" name="Default Changelist" comment="" />
+    <list default="true" id="301385e7-18e4-473e-b680-5a50ca361980" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collection8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collection8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\ZobaRoidz\IdeaProjects\collection\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1a0fqNbE1F18gPIVnzGk8FctNRT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -97,22 +111,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="131" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.768@0.0.1366.768" timestamp="1585916329656" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1585924420521">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1586015333075">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585924420521" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1585924420521">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586015333075" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1586015333075">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585924420521" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1585924420521">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586015333075" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1586015333075">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585924420521" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1585924420521">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586015333075" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1586015333075">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585924420521" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586015333075" />
     <state x="346" y="89" key="search.everywhere.popup" timestamp="1585912688797">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
